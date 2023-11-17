@@ -257,7 +257,7 @@
             /* 120% */
             letter-spacing: 0.4px;
             text-align: center;
-            margin-bottom: 8px;
+            margin-bottom: auto;
     }
     .profession{
         color: var(--SLATE, #434455);
@@ -350,6 +350,7 @@
         margin: 0 auto;
        }
        img{
+         
         display: block;
        }
 
@@ -432,3 +433,17 @@
         }
 
          
+.team-div {
+    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+    background-color: #FFFFFF;
+    width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;}
+        
+
+
+        .biographies {
+            gap: 24px;
+            display: flex;
+        }
+
+                
