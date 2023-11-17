@@ -2,8 +2,7 @@
  
 
 .logotype-web{
-    display: inline-block;
-    margin-bottom: 16px;
+     
     color: var(--IRIS, #4D5AE5);
         font-family: 'Raleway', sans-serif;
         font-size: 18px;
@@ -19,7 +18,7 @@
 }
   
 .logotype{
-     
+    
     color: var(--NAVY-BLUE, #4d5ae5 );
         font-family: 'Raleway', sans-serif;
         font-size: 18px;
@@ -32,7 +31,10 @@
         margin-right: 76px;
          
 }
-
+  .logotype-footer{
+    display: inline-block;
+        margin-bottom: 16px;
+  }
 .span{
     color: #2e2f42;
 }
