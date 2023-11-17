@@ -2,6 +2,8 @@
  
 
 .logotype-web{
+    display: inline-block;
+    margin-bottom: 16px;
     color: var(--IRIS, #4D5AE5);
         font-family: 'Raleway', sans-serif;
         font-size: 18px;
