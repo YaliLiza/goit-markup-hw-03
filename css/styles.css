@@ -17,6 +17,7 @@
 }
   
 .logotype{
+     
     color: var(--NAVY-BLUE, #4d5ae5 );
         font-family: 'Raleway', sans-serif;
         font-size: 18px;
@@ -89,6 +90,8 @@
     }
 
     .title{
+        margin: auto;
+        padding-bottom: 48px;
         color: var(--WHITE, #FFF);
             text-align: center;
             /* Header 1 */
@@ -109,6 +112,7 @@
     }
 
         .registration{
+            margin: auto    ;
             background: var(--IRIS, #4D5AE5);
             font-family: "Roboto", sans-serif;
             font-weight: 500;
@@ -420,7 +424,7 @@
         }
 
         .logotype{
-            display: inline-block;
+            
             margin-bottom: 16px;
         }
         .description-bottom{
