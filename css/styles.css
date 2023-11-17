@@ -218,6 +218,7 @@
         padding: 120px 0;
     }
     .team-description{
+        margin-bottom: 8px
         color: var(--NAVY-BLUE, #2E2F42);
             text-align: center;
             /* Header 2 */
@@ -425,6 +426,7 @@
         }
 
         .logotype{
+            display: inline-block;
             
             margin-bottom: 16px;
         }
@@ -446,4 +448,15 @@
             display: flex;
         }
 
-                
+                                .portfolio {
+                                    padding-top: 120px;
+                                    padding-bottom: 120px;
+                                }
+
+                                                                .container {
+                                                                    margin: 0 auto;
+                                                                    width: 1158px;
+         
+           
+                                                                 padding: 0 15px;
+                                                                }
